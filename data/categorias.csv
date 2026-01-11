@@ -1,0 +1,13 @@
+id,label,tipo
+ESCUELAS,Escuelas,ingreso
+EVENTS_PARTNER,Events Partner,ingreso
+CASA,Casa,ingreso
+BIZUM_ENTRANTE,Bizum Entrante,ingreso
+UNIVERSIDAD,Universidad,gasto
+PINAR,Pinar,gasto
+GIMNASIO,Gimnasio,gasto
+BALONCESTO,Baloncesto,gasto
+HUCHA_LUCIA,Hucha Lucía,gasto
+COMIDAS,Comidas,gasto
+OTROS,Otros,gasto
+BIZUM_SALIENTE,Bizum Saliente,gasto
